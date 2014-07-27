@@ -1,3 +1,5 @@
+#!usr/bin/env ruby
+
 def timer
     print "Enter how many seconds you want to count down from: "
     total = gets.chomp.to_f
