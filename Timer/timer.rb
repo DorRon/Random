@@ -1,4 +1,4 @@
-#!usr/bin/env ruby
+#!/usr/bin/env ruby
 
 def timer
     print "Enter how many seconds you want to count down from: "
