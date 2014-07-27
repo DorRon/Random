@@ -3,7 +3,7 @@ def timer
     total = gets.chomp.to_f
     until total <= 0
         puts total
-        if total > 0 && total < 1 #in order to assure that decimal places are accounted for
+        if total > 0 && total < 1 #in order to insure that decimal places (floats) are accounted for
             sleep(total)
         else
             sleep(1)
