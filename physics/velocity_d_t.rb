@@ -20,3 +20,5 @@ if initialQuery == "Y"
 else
 	puts "This script cannot solve your problem, look at a different velocity script, or solve for distance or time first."
 end
+
+#end
